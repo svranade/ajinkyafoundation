@@ -1,0 +1,32 @@
+﻿<gallery>
+	<settings>
+		<imagesFolder>gallery/images/</imagesFolder>
+		<thumbnailsFolder>gallery/images/</thumbnailsFolder>
+		
+		<image scaleMode="fit"/>
+		<thumbnail width="170" height="120" alpha="70" />
+		<colorScheme thumbsFrameColor="0xffffff" thumbsArrowsColor="0x000000" imageBGColor="0x000000" useShadow="true" />
+		<imageCaption position="bottom" bgAlpha ="40" color="0xFFFFFF" bgColor="0x000000" fontName="Verdana" fontSize="12" visibleMode="onRollOver"/>
+		<thumbCaption color="0xFFFFFF" bgColor="0x000000" bgAlpha="70" fontName="Arial" fontSize="9" visibleMode="never" />
+		<sounds onRollOver="" onClick="" />
+		<picasa user="" albumID="" />
+	</settings>
+	<items>
+		<item source="1.jpg" thumb="t1.jpg" description="" />
+		<item source="2.jpg" thumb="t2.jpg" description="" />
+		<item source="3.jpg" thumb="t3.jpg" description="" />
+		<item source="4.jpg" thumb="t4.jpg" description=""/>
+		<item source="5.jpg" thumb="t5.jpg" description=""/>
+		<item source="6.jpg" thumb="t6.jpg" description=""/>
+		<item source="7.jpg" thumb="t7.jpg" description=""/>
+		<item source="8.jpg" thumb="t8.jpg" description=""/>
+		<item source="9.jpg" thumb="t9.jpg" description=""/>
+		<item source="10.jpg" thumb="t10.jpg" description=""/>
+		<item source="11.jpg" thumb="t11.jpg" description=""/>
+		<item source="12.jpg" thumb="t12.jpg" description=""/>
+		<item source="13.jpg" thumb="t13.jpg" description=""/>
+		<item source="14.jpg" thumb="t14.jpg" description=""/>
+		<item source="15.jpg" thumb="t15.jpg" description=""/>
+		
+	</items>
+</gallery>								 
